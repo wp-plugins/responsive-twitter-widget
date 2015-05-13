@@ -22,7 +22,7 @@ Responsive twitter widget will be shown very smoothly. It is very easy to setup 
      Support Email: engr.mostafijur@gmail.com
         
 
-== Configuration ==
+== Installation ==
 
     ** Install, Activate and widget setting**
     
