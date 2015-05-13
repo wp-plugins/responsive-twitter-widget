@@ -1,7 +1,7 @@
 === responsive-twitter-widget  ===
 Contributors: engrmostafijur
 Donate link: http://pixelsolution4it.com/
-Tags: twitter widget , Twitter Feeds , Twitter Feeds Widget, Twitter plugin
+Tags: twitter widget , Twitter Feeds , Twitter Feeds Widget, Twitter plugin,WP Twitter Feeds,Responsive twitter,  twitter api,twitter user tweets, Twitter timeline,twitter here, twitter super responsive, tweets,live twitter feeds,wp twitter feeds plugin, twitter feed for wordpress,easy twitter, easy customize twitter widget,random twitter widget,twitter slider widget,twitter slider, twitter feeds scroll slider, socical sidebar twitter, social,add twitter button , advanced twitter widget, twitter post, twitter embedded code, twitter iframe, twitter social network,mini twitter , twitter counter, twitter post slider, twitter authentication, twitter search, twitter shortcode
 Requires at least: 3.5
 Tested up to: 3.6.1
 Stable tag: trunk
@@ -13,7 +13,12 @@ Responsive twitter widget will be shown very smoothly. It is very easy to setup 
 
 == Description ==
 
- * Easy to configure responsive twitter widget
+ * Easy to configure responsive twitter widget .
+ Go to Wordpress Dashboard Widget -> Drag drop responsive-twitter-widget Settings
+ Go to www.twitter.com and login here.
+ Go through user Settings and create a Widget here ,Collect widget ID here .
+ 
+ No need api key  here.
 
    ** Developed By ** 
 
