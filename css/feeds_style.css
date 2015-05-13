@@ -1,0 +1,38 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	border: 0px;
+  
+}
+div.twitter-widget {
+	position: relative;
+	width: 100%; 
+}
+ .widget_responsive_twitter iframe {
+  width: 325px !important;
+ }
+
+ /*=====================================================
+=            Bootstrap 2.3.2 Media Queries            =
+=====================================================*/
+@media only screen and (max-width : 800px) {
+  .widget_responsive_twitter iframe {
+  width: 100% !important;
+ }
+}
+@media only screen and (max-width : 767px) {
+ .widget_responsive_twitter iframe {
+  width: 100% !important;
+ }
+}
+@media only screen and (max-width : 480px) {
+  .widget_responsive_twitter iframe {
+  width: 100% !important;
+ }
+}
+@media only screen and (max-width : 320px) {
+ .widget_responsive_twitter iframe {
+  width: 100% !important;
+ }
+
+}
