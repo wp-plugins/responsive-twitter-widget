@@ -1,7 +1,7 @@
 <?php 
 /**
  * Plugin Name:responsive-twitter-widget
- * Plugin URI: http://pixelsolution4it.com/
+ * Plugin URI: https://wordpress.org/plugins/responsive-twitter-widget/
  * Description: A widget that show recent Latest twitter feeds according to widget setting. Actually it is responsive twitter feed Widget. 
  * Version: 1.0
  * Author: engrmostafijur
